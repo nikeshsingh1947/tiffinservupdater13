@@ -1,8 +1,0 @@
-#titlecat{
-    color: rgb(234,88,12);
-}
-@media only screen and (max-width: 390px) {
-   #titlecat{
-        font-size: 9px;
-    }
-}
